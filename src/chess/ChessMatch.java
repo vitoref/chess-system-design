@@ -1,7 +1,5 @@
 package chess;
 
-import com.sun.java.accessibility.util.TopLevelWindowListener;
-
 import boardgame.Board;
 import boardgame.Piece;
 import boardgame.Position;
